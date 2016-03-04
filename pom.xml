@@ -4,8 +4,8 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>michelcordeiro</groupId>
 	<artifactId>exemplos</artifactId>
-	<packaging>war</packaging>
-	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	<version>1</version>
 	<name>exemplos</name>
 
 	<properties>
