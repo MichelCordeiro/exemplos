@@ -5,7 +5,7 @@
   <artifactId>exemplos</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>exemplos</name>
+  <name>exemplos-teste</name>
 
   <properties>
         <blc.version>2.2.0-GA</blc.version>
