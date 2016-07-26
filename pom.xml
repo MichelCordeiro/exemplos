@@ -411,7 +411,7 @@
         <repository>
             <id>central</id>
             <name>libs-release</name>
-            <url>http://nero.ceuma.edu.br:8081/artifactory/libs-releasel</url>
+            <url>http://nero.ceuma.edu.br:8081/artifactory/libs-release</url>
         </repository>
 
         <snapshotRepository>
