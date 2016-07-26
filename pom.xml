@@ -410,13 +410,13 @@
     <distributionManagement>
         <repository>
             <id>central</id>
-            <name>precise32-releases</name>
+            <name>libs-release</name>
             <url>http://nero.ceuma.edu.br:8081/artifactory/libs-release-local</url>
         </repository>
 
         <snapshotRepository>
             <id>snapshots</id>
-            <name>precise32-snapshots</name>
+            <name>libs-snapshot</name>
             <url>http://nero.ceuma.edu.br:8081/artifactory/libs-snapshot-local</url>
         </snapshotRepository>
     </distributionManagement>
