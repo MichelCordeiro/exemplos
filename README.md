@@ -7,3 +7,6 @@
 
 
 >> ![+](http://www.brumadourgente.com.br/hd-imagens/bt_mais.png) ![+](http://www.brumadourgente.com.br/hd-imagens/bt_mais.png) ![+](http://www.brumadourgente.com.br/hd-imagens/bt_mais.png) :+1: :100: 
+
+
+OBS: alguns updates no projeto para teste de plugin.
