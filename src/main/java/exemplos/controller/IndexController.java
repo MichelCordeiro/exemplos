@@ -32,10 +32,10 @@ public class IndexController {
 		this.result = result;
 	}
 
-	@Path("/")
+	@Path("/home")
 	public void index() {
-		LOGGER.info("log ativo!");
 		result.include("variable", "VRaptor!");
+		LOGGER.info("log ativo!");
 	}
 
 }
